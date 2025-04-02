@@ -69,13 +69,7 @@ The model was evaluated using these performance metrics:
 
 The confusion matrix and classification report were generated to assess the model’s performance.
 
-### Visualization
 
-- **Confusion Matrix**:
-  - (Insert confusion matrix image here)
-
-- **Other Relevant Visualizations**:
-  - (Insert additional visualizations here)
 
 ### Discussion of Results
 
