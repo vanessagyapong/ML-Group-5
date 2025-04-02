@@ -40,7 +40,7 @@ This project aims to develop a machine learning model to classify chest X-ray im
 ### Model Performance
 
 - **Metrics**: Accuracy, precision, recall, F1-score, ROC-AUC.
-- **Confusion Matrix**: (Insert image here)
+- **Confusion Matrix**
 
 ### Discussion
 
