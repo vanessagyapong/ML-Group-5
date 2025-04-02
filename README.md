@@ -1,4 +1,4 @@
-# Report on Pneumonia Detection
+#  Pneumonia Detection
 
 ## Introduction
 
